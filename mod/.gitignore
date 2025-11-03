@@ -1,0 +1,15 @@
+.smithbox/
+action/
+asset/
+chr/
+event/
+logs/
+map/
+menu/
+msg/
+param/
+parts/
+script/
+sd/
+sfx/
+sound/
