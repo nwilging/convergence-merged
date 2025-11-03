@@ -6,6 +6,14 @@
 
 This repository stores a configuration of ER Convergence with additional mods added/merged into `regulation.bin`.
 
+## Installation
+
+1. Clone or download repository anywhere on your computer (`git clone git@github.com:nwilging/convergence-merged.git`)
+2. Extract archive (if downloaded zip)
+3. Setup `ersc_settings.ini`: copy `SeamlessCoop/ersc_settings.ini.example` to `SeamlessCoop/ersc_settings.ini`
+4. Open `SeamlessCoop/ersc_settings.ini` and set a value in `cooppassword` (e.g. `cooppassword = test`)
+5. Double click on `Start_Convergence.bat`
+
 ## Mod List
 
 * [Convergence](https://www.nexusmods.com/eldenring/mods/3419)
