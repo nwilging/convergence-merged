@@ -21,6 +21,17 @@ This repository stores a configuration of ER Convergence with additional mods ad
 * [Transmogrify Armor](https://www.nexusmods.com/eldenring/mods/3596)
 * 1.5x Runes Multiplier (custom parameter edit)
 
+## Notes for Seamless Coop
+
+SC is awesome but has some progression related issues in early game when trying to play with friends. 99% of the game works just fine, but here are
+some tips to avoid progressions issues, glitches, etc.
+
+1. Spirit calling bell: Ranni will _not_ appear reliably when multiple people are in the game, despite meeting conditions for her to appear in Elleh. This step should be done solo, then you can rejoin friends. I think this step is necessary to kick off her questline, not sure.
+2. Evergaols: these are hit and miss, but it is most reliable to have the _host_ activate and enter the evergaol first. All other players should huddle around the host as they activate the gaol, then 9 times out of 10 everyone is teleported in
+3. Unable to move in Evergaol: This is common if tip #2 gets screwed up, one or more players will be unable to move once in the gaol. Host should set PvP mode ON, then give each player a whack and this should un-stuck them.
+4. Invisible Torrent: this happens, no known fix. Oftentimes it's not that he's invisible, it's that he is actually 10-20 feet up in the air, but thinks he's on the ground.
+5. Runes don't drop for everyone: I've had this happen off and on with bosses in SC, and its the main reason for the 1.5x runes multiplier. Sometimes players won't be rewarded runes, this includes the host. Sometimes non-host players get runes and the host doesn't, or vice versa. No known fix.
+
 
 ## Adding a Mod
 
